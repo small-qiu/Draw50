@@ -13,4 +13,4 @@ deviation-[10发散型条形图 & 11发散文本](https://github.com/small-qiu/D
 
 deviation-[12包点图 & 13棒棒糖图](https://github.com/small-qiu/Draw50/blob/master/deviation/week2%20deviation%20-%2012%E5%8C%85%E7%82%B9%E5%9B%BE%20%26%2013%E6%A3%92%E6%A3%92%E7%B3%96%E5%9B%BE.ipynb)
 
-deciation-[14面积图](https://github.com/small-qiu/Draw50/blob/master/deviation/week2%20deviation%20-%2014%E9%9D%A2%E7%A7%AF%E5%9B%BE.ipynb)
+deviation-[14面积图](https://github.com/small-qiu/Draw50/blob/master/deviation/week2%20deviation%20-%2014%E9%9D%A2%E7%A7%AF%E5%9B%BE.ipynb)
