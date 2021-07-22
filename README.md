@@ -27,7 +27,7 @@ distribution-[24Joy Plot & 25分布式包点图](https://github.com/small-qiu/Dr
 
 distribution-[26箱型图，27包点+箱型图，28小提琴图](https://github.com/small-qiu/Draw50/blob/master/distribution/week4%20distribution%20-%2026%E7%AE%B1%E5%9E%8B%E5%9B%BE%EF%BC%8C27%E5%8C%85%E7%82%B9%2B%E7%AE%B1%E5%9E%8B%E5%9B%BE%EF%BC%8C28%E5%B0%8F%E6%8F%90%E7%90%B4%E5%9B%BE.ipynb)
 
-combine- [31华夫饼图，32饼图，33树状图，34条形图] (https://github.com/small-qiu/Draw50/blob/master/combine/week5%20%E7%BB%84%E6%88%90%E5%9B%BE%20-%2031%E5%8D%8E%E5%A4%AB%E9%A5%BC%E5%9B%BE%EF%BC%8C32%E9%A5%BC%E5%9B%BE%EF%BC%8C33%E6%A0%91%E7%8A%B6%E5%9B%BE%EF%BC%8C34%E6%9D%A1%E5%BD%A2%E5%9B%BE.ipynb)
+combine- [31华夫饼图，32饼图，33树状图，34条形图](https://github.com/small-qiu/Draw50/blob/master/combine/week5%20%E7%BB%84%E6%88%90%E5%9B%BE%20-%2031%E5%8D%8E%E5%A4%AB%E9%A5%BC%E5%9B%BE%EF%BC%8C32%E9%A5%BC%E5%9B%BE%EF%BC%8C33%E6%A0%91%E7%8A%B6%E5%9B%BE%EF%BC%8C34%E6%9D%A1%E5%BD%A2%E5%9B%BE.ipynb)
 
 else......
 
